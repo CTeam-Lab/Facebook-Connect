@@ -1,7 +1,7 @@
 Facebook-Connect
 ================
 
-Just a normal Facebook connect library
+Just a normal Facebook connect library ( EXAMPLE )
 
 facebook.php is the library , includes the facebook sdk
 
